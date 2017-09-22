@@ -1,0 +1,7 @@
+ ;
+ZYME: Welcome to the Stomach! Hey...the chef¡¯s dinner isn¡¯t digesting...Why isn¡¯t this gray thing
+      breaking up the food...
+ANTIZYME: Muhahaahha. That ¡°gray thing¡± is an enzyme! Just try to get it to work!;
+ZYME: Can you help break down these meatballs?;
+ZYME: Listen carefully! Here¡¯s our next mission:;
+

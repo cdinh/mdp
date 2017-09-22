@@ -1,0 +1,16 @@
+ ;
+ZYME: Welcome to the Small Intestine! I¡¯m with the broken-down food from the stomach! Here we¡¯ll be
+      able to get nutrients from that food to produce energy.;
+ZYME: Hey there, enzyme producers! Looks like the enzymes are breaking the food down into
+      nutrients!...but, where are these nutrients going?;
+ZYME: Ooh, so the villi absorb the nutrients into the blood!;
+ZYME: From the blood they go to the rest of the body!;
+ZYME: Hey! Why¡¯d the absorption stop? Nutrients aren¡¯t coming in anymore.;
+ZYME: And where are all the enzymes?;
+ZYME: What¡¯s this?;
+ ;
+ANTIZYME: Muhhahah! I¡¯ve captured all your little enzymes! Your friend¡¯s food won¡¯t provide precious
+          nutrients!;
+ZYME: Yikes! The food is getting stuck on the way down!;
+ZYME: I¡¯ll get AntiZyme! Can you help break down and absorb the food in the small intestine?;
+ZYME: Listen carefully! Here¡¯s our next mission:;

@@ -13,8 +13,8 @@ public class CircleCollider : Collider {
 	{
 		m_Entity = entity;
 		
-		float lengthX = m_Entity.gameObject.renderer.bounds.size.x * 0.5f;
-		float lengthZ = m_Entity.gameObject.renderer.bounds.size.z * 0.5f;
+		float lengthX = m_Entity.gameObject.GetComponent<Renderer>().bounds.size.x * 0.5f;
+		float lengthZ = m_Entity.gameObject.GetComponent<Renderer>().bounds.size.z * 0.5f;
 		
 		Properties.Radius = (lengthX > lengthZ) ? lengthX : lengthZ;
 	}

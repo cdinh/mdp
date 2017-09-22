@@ -7,11 +7,133 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
+    guid: 9326ba690aa496a469ec19b64fa556c6
   - enabled: 0
     path: Assets/Scenes/MainMenu.unity
+    guid: 9326ba690aa496a469ec19b64fa556c6
   - enabled: 0
     path: Assets/Scenes/MainMenu.unity
-  - enabled: 1
+    guid: 9326ba690aa496a469ec19b64fa556c6
+  - enabled: 0
     path: Assets/Scenes/BounceDemo.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/SmallIntestineOdd.unity
+    guid: 6e118e99ba4e76a4d8a45cee1e0246db
   - enabled: 1
-    path: Assets/Scenes/SmallIntestine.unity
+    path: Assets/Scenes/pinch.unity
+    guid: 58a128e7d4c9d5c4686b0e7544c6a201
+  - enabled: 1
+    path: Assets/Scenes/Enzyme.unity
+    guid: 815a6d9f576425d42abffb30bf264bd6
+  - enabled: 1
+    path: Assets/Scenes/loading.unity
+    guid: 5fede78bae0d93f438d56c6bad4abc86
+  - enabled: 1
+    path: Assets/Scenes/LoadLevelSmallIntestine.unity
+    guid: dda60c6d914ee2c499e2bea5169770eb
+  - enabled: 1
+    path: Assets/Scenes/Mouth.unity
+    guid: b442c512495e32b439a19cec6937d63d
+  - enabled: 1
+    path: Assets/Scenes/SmallIntestineStoryboard.unity
+    guid: 1a38c99f62768c3458c892c434a2b533
+  - enabled: 1
+    path: Assets/Scenes/IntroStoryboard.unity
+    guid: 1c42430a3b1b8da4d9522442f45ca500
+  - enabled: 1
+    path: Assets/Scenes/MouthStoryboard.unity
+    guid: 05ecd05ca755b574bb44f433ed92c17a
+  - enabled: 0
+    path: Assets/Scenes/MouthAnimation.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: 14b5bb15890c2d24a968e33d8debd914
+  - enabled: 1
+    path: Assets/Scenes/SmallIntestineStats.unity
+    guid: 6503f71457bf94a42aff6ae6aa13cce0
+  - enabled: 1
+    path: Assets/Scenes/LoadLevelMouth.unity
+    guid: 75f75b7ee6aff9b4b8d36659ed840483
+  - enabled: 1
+    path: Assets/Scenes/MouthStats.unity
+    guid: 98b48fc94b2a139469526f4e4714625a
+  - enabled: 1
+    path: Assets/Scenes/HighScores.unity
+    guid: 81e929ba7db2f99498021d7aa75f14ac
+  - enabled: 1
+    path: Assets/Scenes/MouthEndStoryboard.unity
+    guid: b776fe24a209e3d4b984534b6c451df0
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: 87d082eeab9a4b447bdb57d5cef0d99e
+  - enabled: 1
+    path: Assets/Scenes/SmallIntestineEven.unity
+    guid: 1ccd18623272c9846b4cb8644b8e8e8d
+  - enabled: 1
+    path: Assets/Scenes/SmallIntestineTutorial.unity
+    guid: 80844b86f84b9344ca0a335315000341
+  - enabled: 1
+    path: Assets/Scenes/SmallIntestineOdd.unity
+    guid: 6e118e99ba4e76a4d8a45cee1e0246db
+  - enabled: 1
+    path: Assets/Scenes/RecordandPlaybackAudioSample.unity
+    guid: 58b8902e46674c54484e16ea9c1d8440
+  - enabled: 1
+    path: Assets/Scenes/Stomach.unity
+    guid: cfd349568322dc74c806e78c19e300db
+  - enabled: 1
+    path: Assets/Scenes/StomachStoryboard.unity
+    guid: e62e0611aefcc2943bc2b02cbbfdbeeb
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9326ba690aa496a469ec19b64fa556c6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9326ba690aa496a469ec19b64fa556c6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9326ba690aa496a469ec19b64fa556c6
+  - enabled: 1
+    path: Assets/Scenes/DebugMenu.unity
+    guid: e33f5556e381b4aa9b72a482c7e2490b
+  - enabled: 1
+    path: Assets/Scenes/LargeIntestineStoryboard.unity
+    guid: 042ccb5c9f07def459c443c87eb5ab67
+  - enabled: 1
+    path: Assets/Scenes/LargeIntestine.unity
+    guid: 096e185ed5d75aa4d9ba3091e3ae3734
+  - enabled: 0
+    path: Assets/Scenes/LoadLevelLargeIntestine.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StomachStats.unity
+    guid: f5328cfabf17d944eadee3144a6a8b2c
+  - enabled: 1
+    path: Assets/Scenes/LoadLevelStomach.unity
+    guid: 2a5805bb1e07d6345b7ed66b80700cdf
+  - enabled: 1
+    path: Assets/Scenes/SmallIntestineEndStoryboard.unity
+    guid: 7b719632d6f487549a21ee1c400a873c
+  - enabled: 1
+    path: Assets/Scenes/LargeIntestineEndStoryboard.unity
+    guid: a681da6c7a792a740adc5a6b9ece253e
+  - enabled: 1
+    path: Assets/Scenes/StomachEndStoryboard.unity
+    guid: 5bad1e9b396ce7844ba4be714f5a282d
+  - enabled: 1
+    path: Assets/Scenes/Test_IntroStoryboard.unity
+    guid: 0fc7d7b7f296a4161bb280449837c9fc
+  - enabled: 1
+    path: Assets/Scenes/Test_nowEntering.unity
+    guid: ab68a579f52594fd79b7a701d6756dc5
+  - enabled: 1
+    path: Assets/Scenes/Test_SIStoryBoard.unity
+    guid: 904932dacb9114cf38ac7a06085f2ba3
+  - enabled: 1
+    path: Assets/Scenes/Test_MouthStoryBoard.unity
+    guid: 0210c5d88460d423ab64ea74bb72d8b2
+  - enabled: 1
+    path: Assets/Scenes/BadgeFridge.unity
+    guid: 5a4fb633d66804c889e5c4047774a3d1

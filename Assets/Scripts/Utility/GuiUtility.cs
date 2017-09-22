@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+// this calss is only used in game config
 public static class GuiUtility
 {
     public static float ORIG_SCREEN_WIDTH = 1024f;

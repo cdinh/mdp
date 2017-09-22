@@ -1,0 +1,6 @@
+ZYME: Whoa, so this is the mouth! It¡¯s so...dark¡­
+      I think I have a headlamp on my hat. Could you help me turn it on?;
+ZYME: Yikes! The food is getting stuck on the way down!;
+ZYME: Hey, Explorer out there. Yes, you! Can you help me save my friend from AntiZyme?;
+ZYME: Listen carefully, Explorer! Here¡¯s our first mission:;
+

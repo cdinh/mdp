@@ -1,7 +1,9 @@
 using UnityEngine;
 
-// Static class containing utility functions (usually math)
-// that can be used throughout the project
+/**
+ * Static class containing utility functions (usually math)
+ * that can be used throughout the project
+ */
 
 public static class MDPUtility 
 {

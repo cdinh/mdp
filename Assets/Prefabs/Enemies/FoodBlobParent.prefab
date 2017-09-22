@@ -15,7 +15,7 @@ GameObject:
   - 54: {fileID: 5400000}
   m_Layer: 2
   m_Name: FoodBlobParent
-  m_TagString: Untagged
+  m_TagString: foodBlobParent
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31,6 +31,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+  m_RootOrder: 0
 --- !u!33 &3300000
 MeshFilter:
   m_ObjectHideFlags: 1
@@ -49,7 +50,7 @@ Rigidbody:
   m_Drag: 0
   m_AngularDrag: .0500000007
   m_UseGravity: 0
-  m_IsKinematic: 0
+  m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
@@ -75,10 +76,12 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6d0391c95b36916488bc80dd273d8849, type: 3}
   m_Name: 
+  m_EditorClassIdentifier: 
   Velocity: 10
   RotationSpeed: 10
   Nutrient: {fileID: 100000, guid: 20f993d1675d53a4e881036f4c4dce59, type: 2}
-  NumNutrients: 1
+  NumNutrients: 5
+  nutrientLostSound: {fileID: 100000, guid: b549811cb7db43a468af4455dfb2f342, type: 2}
 --- !u!114 &11400002
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -89,7 +92,9 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b3552457a9f20424abb4bb872a3b0e7c, type: 3}
   m_Name: 
+  m_EditorClassIdentifier: 
   pathPosition: 0
+  nutrientSpeed: 0
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

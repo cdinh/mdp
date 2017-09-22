@@ -1,0 +1,12 @@
+ZYME: P.U.! All this poop must stink! Good thing I don¡¯t have a nose.
+ZYME: End of the digestive tract, AntiZyme!! The food is already digested, what else can you do?
+ANTIZYME: You may have gotten all the nutrients, but you still need some water from what¡¯s left of the food;
+ZYME: Explorer, let¡¯s absorb enough water for the body but keep some for the poop so that it¡¯s good poop!;
+ZYME: <points to middle> Good poop is here on the scale where there¡¯s just the right amount of water!
+<points to left side> Over here we have too much water so it¡¯s mushy, runny poop!
+ANTIZYME: Well, my Bacteria Gang is going to make it watery! (AntiZyme with Bacteria Gang pop up);
+ZYME: <points to right side> Over here we have too little water so it¡¯s hard poop that won¡¯t come out.
+ANTIZYME: All the extra sponges/suctions that I added will squeeze out your last drop of
+water! (AntiZyme with extra suctions pop up);
+ZYME: Hey Explorer! It¡¯s our duty to make good poop! Ready?;
+ZYME: Listen carefully! Here¡¯s our final mission:;

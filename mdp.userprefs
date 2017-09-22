@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BadgeSystem/BadgeDataIO.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BadgeSystem/BadgeDataIO.cs" Line="94" Column="8" />
+      <File FileName="Assets/Scripts/Test_StoryBoard/BackGroundTurner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Test_StoryBoard/StoryDragBG.cs" Line="129" Column="42" />
+      <File FileName="Assets/Scripts/General/SkipGameButton.cs" Line="63" Column="49" />
+      <File FileName="Assets/Scripts/Mouth/MoveFood.cs" Line="1" Column="1" />
+      <File FileName="Assets/General Assets/BadgeArt/popupSystems/MouthBadgePopup.cs" Line="162" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

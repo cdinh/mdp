@@ -45,7 +45,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 2c531318c5602684b8b5862fbed6b3c7, type: 2}
+  - {fileID: 2100000, guid: 5e950cdbc89ec478dbdadc046b36fffe, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -80,6 +80,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 73fa6a4f53f855944bdf8a5392f74ff6, type: 3}
   m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &11400002
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -90,6 +91,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2fdc9dfc8668b48778d4e1c2f1404f4d, type: 3}
   m_Name: 
+  m_EditorClassIdentifier: 
   Type: 2
 --- !u!114 &11400004
 MonoBehaviour:
@@ -101,6 +103,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a4692c6309c4143f29f348f88dce0780, type: 3}
   m_Name: 
+  m_EditorClassIdentifier: 
   SType: 2
   UseUnityCollider: 1
   Density: 1
@@ -123,6 +126,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bfe2141069b3bc542b161fba88c1715b, type: 3}
   m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

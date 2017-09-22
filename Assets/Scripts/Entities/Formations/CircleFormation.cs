@@ -59,9 +59,6 @@ public class CircleFormation : IFormation
 	public void Arrange(Nutrient[] nutrients)
 	{
         m_NumSockets = nutrients.Length;
-        
-        Vector3 circleSize = nutrients[0].renderer.bounds.size;
-        float radius = (circleSize.x > circleSize.z) ? circleSize.x : circleSize.z;
 
         Node centerPiece = new Node(nutrients[0]);
 
